@@ -31,6 +31,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Veja se o número é primo</Text>
+      <Text style={styles.subText}>Atividade primo versão 1</Text>
 
       <TextInput
         style={styles.input1}

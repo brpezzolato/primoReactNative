@@ -39,7 +39,9 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Att primo v4</Text>
+
+      <Text style={styles.text}>Gerador de Primos</Text>
+      <Text style={styles.subText}>Atividade primo versão 4</Text>
 
       <TextInput
         style={styles.input1}

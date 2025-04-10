@@ -16,8 +16,7 @@ export const styles = StyleSheet.create({
         fontWeight: 'bold',
         textAlign: 'center',
         paddingRight: 15,
-        paddingLeft: 15,
-        marginBottom: 20
+        paddingLeft: 15
     },
 
     mensagem: {
@@ -78,6 +77,12 @@ export const styles = StyleSheet.create({
     textBtn: {
         color: 'black',
         fontWeight: 'bold'
+    },
+    
+    subText: {
+        color: 'white',
+        marginBottom: 20,
+        padding: 15,
+        fontSize: 20
     }
-
 });

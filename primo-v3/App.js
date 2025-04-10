@@ -36,7 +36,9 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Primo V-3</Text>
+      <Text style={styles.text}>Primo, ou Todos Seus Divisores</Text>
+      <Text style={styles.subText}>Atividade primo versão 3</Text>
+
 
       <TextInput
         style={styles.input1}
